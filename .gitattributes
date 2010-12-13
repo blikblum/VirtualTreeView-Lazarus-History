@@ -117,6 +117,7 @@ demos/vtbasic/vtbasic.lpi svneol=native#text/plain
 demos/vtbasic/vtbasic.lpr svneol=native#text/plain
 /ideicons.lrs svneol=native#text/plain
 include/intf/carbon/olemethods.inc svneol=native#text/plain
+include/intf/carbon/vtgraphicsi.inc svneol=native#text/plain
 include/intf/carbon/vtvdragmanager.inc svneol=native#text/plain
 include/intf/dummydragmanager.inc svneol=native#text/plain
 include/intf/dummyolemethods.inc svneol=native#text/plain
