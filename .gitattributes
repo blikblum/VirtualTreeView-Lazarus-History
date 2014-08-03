@@ -1,4 +1,5 @@
 * text=auto !eol
+/CHANGES.txt svneol=native#text/plain
 /VTAccessibility.pas svneol=native#text/plain svn_eol_002dtype=native
 /VTAccessibilityFactory.pas svneol=native#text/plain
 /VTConfig.inc svneol=native#text/plain svn_eol_002dtype=native
