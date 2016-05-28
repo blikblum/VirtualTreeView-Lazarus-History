@@ -6,6 +6,7 @@
 /VTGraphics.pas svneol=native#text/plain
 /VTHeaderPopup.pas svneol=native#text/plain svn_eol_002dtype=native
 /VirtualTrees.pas svneol=native#text/plain
+/VirtualTrees.res -text
 /demos svn_eol_002dtype=native
 demos/advanced/Advanced.exe.Manifest svneol=native#text/plain
 demos/advanced/Advanced.lpi svneol=native#text/plain
